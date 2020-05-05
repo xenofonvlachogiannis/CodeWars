@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars", "CodeWars\CodeWars.csproj", "{48D7DB9C-53FD-4A3F-8F17-C3E43EC7910C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars Solutions", "CodeWars Solutions\CodeWars Solutions.csproj", "{0947EFA0-D280-4CA7-817B-C6CD5AE0BB1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D7DB9C-53FD-4A3F-8F17-C3E43EC7910C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D7DB9C-53FD-4A3F-8F17-C3E43EC7910C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D7DB9C-53FD-4A3F-8F17-C3E43EC7910C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D7DB9C-53FD-4A3F-8F17-C3E43EC7910C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0947EFA0-D280-4CA7-817B-C6CD5AE0BB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0947EFA0-D280-4CA7-817B-C6CD5AE0BB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0947EFA0-D280-4CA7-817B-C6CD5AE0BB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0947EFA0-D280-4CA7-817B-C6CD5AE0BB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2426AD59-B1DC-4843-A69C-5E61B3DDE08B}
+	EndGlobalSection
+EndGlobal
